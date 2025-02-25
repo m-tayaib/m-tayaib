@@ -75,7 +75,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-tayaib&theme=react"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=m-tayaib&show_icons=true&theme=react"/>
 </p>
