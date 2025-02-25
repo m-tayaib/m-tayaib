@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tayyab 👋</h1>
+<h1 align="center">Hi, I'm Tayaib </h1>
 <h3 align="center">
   <b>MERN Stack Developer | AI-Powered Web Applications | Open to Remote Internships</b>
 </h3>
