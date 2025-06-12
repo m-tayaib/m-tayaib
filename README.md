@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tayaib </h1>
+<h1 align="center">Hi, I'm Tayaib 👋</h1>
 <h3 align="center">
   <b>MERN Stack Developer | AI-Powered Web Applications | Open to Remote Internships</b>
 </h3>
@@ -14,17 +14,44 @@
 
 ---
 
-## 🚀 **About Me**  
-I am a **MERN Stack Developer** with hands-on experience in building **scalable, user-friendly web applications**.  
-- 🎓 Previously worked as a **MERN Stack Trainee at Knowledge Streams**, gaining expertise in **full-stack development**.  
-- 🤖 Passionate about **AI-powered web applications** and constantly learning the **latest technologies**.  
-- 🔍 Currently **seeking a remote paid internship**, but I’m also open to **unpaid internships** to prove my capabilities.  
+## 🚀 **About Me**
+
+I’m a passionate **React.js developer** focused on building **modern**, **responsive**, and **high-performance web applications**.  
+With hands-on experience in **TypeScript**, **TailwindCSS**, and the **MERN stack**, I specialize in developing **pixel-perfect** frontends that translate UI/UX designs into seamless user experiences.
 
 ---
 
-## 🛠 **Tech Stack**  
+## 💼 **What I Offer**
 
-### **Frontend**  
+- 🎨 Responsive **React.js frontends** developed from **Figma files** or custom designs  
+- 🧱 Clean, reusable components and **well-structured UI architecture** for scalability  
+- 🔗 Smooth and reliable **REST API integrations** for efficient data management  
+- 🛠️ Expert in **debugging** and **performance optimization** for smoother UX  
+- 📱 Currently learning **React Native** for cross-platform mobile development  
+
+---
+
+## 🧑‍💻 **Professional Experience**
+
+1. 💼 **Junior MERN Stack Developer** at **Dev Entity**  
+2. 🌐 **Junior Frontend Developer (TypeScript)** at **Insitе.life (UK-based)**  
+
+---
+
+## 🤝 **Why Collaborate With Me?**
+
+I believe in:
+- ✅ Clear communication
+- ✅ Timely delivery
+- ✅ Writing **scalable**, **maintainable**, and **efficient** code
+
+I aim to contribute to meaningful projects and build **long-term professional relationships** through consistent, reliable development practices.
+
+---
+
+## 🛠 **Tech Stack**
+
+### **Frontend**
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3"/>
@@ -37,7 +64,7 @@ I am a **MERN Stack Developer** with hands-on experience in building **scalable,
   <img src="https://img.shields.io/badge/-Material--UI-blue?style=flat&logo=material-ui"/>
 </p>
 
-### **Backend & Database**  
+### **Backend & Database**
 <p align="left">
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js"/>
   <img src="https://img.shields.io/badge/-Express.js-black?style=flat&logo=express"/>
@@ -45,7 +72,7 @@ I am a **MERN Stack Developer** with hands-on experience in building **scalable,
   <img src="https://img.shields.io/badge/-EJS-orange?style=flat"/>
 </p>
 
-### **API & Tools**  
+### **API & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
@@ -54,59 +81,57 @@ I am a **MERN Stack Developer** with hands-on experience in building **scalable,
 
 ---
 
-## 📌 **Pinned Projects**  
+## 📌 **Pinned Projects**
 
 ### 🚀 **DeepCode – AI-Powered Developer Toolkit**  
-- 🔹 AI-driven coding assistant using **Google Gemini AI** for debugging, translation, and interview prep.  
-- 🔹 **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Multer, Monaco Editor.  
+- 🔹 AI-based coding assistant using **Google Gemini AI** for debugging, translation, and interview prep  
+- 🔹 **Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Multer, Monaco Editor  
 - 🔗 [GitHub Repo](https://github.com/developer-tayab/DeepCode_Mern_Ai.git) | 🔗 [Live Demo](https://www.linkedin.com/feed/update/urn:li:activity:7299709924345888770/)  
 
 ### 📝 **AI-Powered Study Notes & Summarizer**  
-- 🔹 AI-based tool to extract and summarize study notes from PDFs.  
-- 🔹 **Tech:** React.js, Node.js, Express.js, Tailwind CSS, pdf-parse, Google Gemini AI.  
+- 🔹 Extracts and summarizes notes from academic PDFs using AI  
+- 🔹 **Tech:** React.js, Node.js, Express.js, Tailwind CSS, pdf-parse, Google Gemini AI  
 - 🔗 [GitHub Repo](https://github.com/developer-tayab/AI-Study-Notes-Summarizer.git) | 🔗 [Live Demo](https://github.com/developer-tayab/AI-Study-Notes-Summarizer.git)  
 
 ### 📰 **Full-Stack Blogging Platform**  
-- 🔹 Blogging platform built from a **Figma design** with **secure authentication and image uploads**.  
-- 🔹 **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Multer, Axios.  
+- 🔹 Built from a **Figma UI**, includes secure authentication and image uploads  
+- 🔹 **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Multer, Axios  
 - 🔗 [GitHub Repo](https://github.com/developer-tayab/Mern_Blog_Website_1.0.git) | 🔗 [Live Demo](https://www.linkedin.com/feed/update/urn:li:activity:7287893769918500865/)  
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-tayaib&show_icons=true&theme=react"/>
-  <br>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-tayaib&theme=react"/>
 </p>
 
 ---
 
-## 🎯 **What I'm Working On**  
-- 🔹 Enhancing my **full-stack and AI integration skills**.  
-- 🔹 Building more **real-world applications**.  
-- 🔹 Open to **collaborations, internships, and freelance opportunities**.  
+## 🎯 **What I'm Currently Working On**
+- 🔹 Strengthening skills in **full-stack + AI integration**  
+- 🔹 Developing **real-world production-level applications**  
+- 🔹 Open to **collaborations, internships, and freelance opportunities**  
 
 ---
 
-## 📬 **Let's Connect!**  
-Feel free to reach out if you'd like to collaborate, discuss opportunities, or just chat about tech!  
+## 📬 **Let's Connect!**
+Want to collaborate, ask questions, or just chat tech?  
 - **LinkedIn:** [Muhamad Tayaib](https://www.linkedin.com/in/m-tayaib/)  
 - **GitHub:** [Muhamad Tayaib](https://github.com/m-tayaib)  
-- **Email:** [muhamadtayaib@gmail.com](muhamadtayaib@gmail.com)  
+- **Email:** [muhamadtayaib@gmail.com](mailto:muhamadtayaib@gmail.com)  
 
 ---
 
-## 🌟 **I am Always Try to Learn & Grow**  
+## 🌟 **Always Learning & Growing**
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=AI+enthusiast+and+problem+solver;Always+learning%2C+always+building;MERN+Stack+Developer+with+a+passion+for+AI;Building+scalable+and+user-friendly+apps;Open+to+collaborations+and+new+opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎉 **Thank You!**  
+## 🎉 **Thank You for Visiting!**
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Thank You GIF" width="200" />
 </p>
-
----
