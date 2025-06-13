@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tayaib 👋</h1>
 <h3 align="center">
-  <b>MERN Stack Developer | AI-Powered Web Applications | React </b>
+  <b>MERN Stack Developer | AI-Powered Web Applications | React JS </b>
 </h3>
 
 <p align="center">
