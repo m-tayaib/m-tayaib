@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-tayaib/m-tayaib/main/bannner_profile.png" alt="Tayaib GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Tayaib 👋</h1>
 <h3 align="center">
   <b>MERN Stack Developer | AI-Powered Web Applications | React JS </b>
